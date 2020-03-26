@@ -1,0 +1,76 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="10520C48-B402-D87F-016E-307D4FCF4FF6" name="Usuario">
+<createdBy>david</createdBy>
+<createdTime>2020-03-26 10:23:49 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="UID_usuario" id="7CD42FC0-7D12-0A86-270C-05209F6A8BA9">
+<createdBy>david</createdBy>
+<createdTime>2020-03-26 10:24:11 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Nombre" id="AEA9A7F1-D6FE-20DE-A639-A670524B35AC">
+<createdBy>david</createdBy>
+<createdTime>2020-03-26 13:13:12 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Apellido(s)" id="3497B95F-188F-85C6-20D2-4B84D06FD2C3">
+<createdBy>david</createdBy>
+<createdTime>2020-03-26 13:13:17 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="UID_Actividad" id="F0E886B8-AB8F-A217-DB20-9248FE15DD01">
+<createdBy>Fran Navarro</createdBy>
+<createdTime>2020-03-26 12:34:35 UTC</createdTime>
+<generatorID>2F7DE434-9BF6-CBF8-19C6-728AB0AAADA1</generatorID>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>94BD6CC9-D971-0B12-69D0-EC23AEEF3CB7</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="538B0DE4-4814-823B-CED5-81A81CC2E5C1" name="Usuario PK">
+<createdBy>david</createdBy>
+<createdTime>2020-03-26 10:24:25 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>7CD42FC0-7D12-0A86-270C-05209F6A8BA9</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

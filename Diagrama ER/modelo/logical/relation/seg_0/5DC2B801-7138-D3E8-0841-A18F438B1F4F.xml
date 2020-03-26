@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Matricula" directorySegmentName="seg_0" id="5DC2B801-7138-D3E8-0841-A18F438B1F4F">
+<createdBy>Fran Navarro</createdBy>
+<createdTime>2020-03-26 12:29:14 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>Estudia</nameOnSource>
+<nameOnTarget>Es estudiado</nameOnTarget>
+<optionalSource>false</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>37857516-ACF5-01B8-ECF2-8329C8F4A8CF</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>3F206C89-D041-FC05-9F82-B34547E31193</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
