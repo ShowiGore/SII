@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  width="979" height="422">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"  width="1371" height="438">
 <defs id="dmw_defs" >
 <svg id="fk_sym" viewBox="0 0 48.665 48.665" style="enable-background:new 0 0 48.665 48.665;" >
 <g>
@@ -22,22 +22,28 @@
 <path fill="black" d="M660.224 422.656c6.976 16.192-0.512 35.008-16.768 42.048-16.128 6.976-34.944-0.448-41.984-16.768-8.448-19.776-20.736-37.696-36.224-53.248-64.64-64.64-177.344-64.64-241.92 0l-145.216 145.28c-66.688 66.688-66.688 175.232 0 241.984 66.688 66.688 175.104 66.752 241.92 0l92.8-92.864c12.48-12.48 32.768-12.48 45.248 0s12.48 32.768 0 45.248l-92.8 92.864c-91.648 91.648-240.832 91.52-332.416 0-91.712-91.648-91.712-240.832 0-332.48l145.216-145.28c44.352-44.416 103.424-68.864 166.272-68.864s121.792 24.448 166.208 68.864c21.248 21.312 38.016 45.952 49.664 73.216zM891.136 401.344l-145.216 145.216c-88.768 88.832-243.712 88.832-332.416 0-21.312-21.312-38.080-45.952-49.728-73.216-7.040-16.256 0.448-35.072 16.704-42.048 16.064-6.784 35.008 0.512 41.984 16.768 8.512 19.776 20.8 37.696 36.288 53.248 64.64 64.64 177.344 64.64 241.92 0l145.216-145.216c66.688-66.688 66.688-175.232 0-241.984-66.752-66.624-175.168-66.688-241.92 0l-92.8 92.864c-12.48 12.48-32.768 12.48-45.248 0s-12.48-32.768 0-45.248l92.8-92.864c45.824-45.824 105.984-68.736 166.208-68.736s120.448 22.912 166.272 68.736c91.584 91.648 91.584 240.768-0.064 332.48z" />
 </g>
 </svg>
-<clipPath clipPathUnits="userSpaceOnUse" id="clipPath6_0_">
-<rect x="0" y="0" width="532" height="147" />
-</clipPath>
-<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2_0_">
-<rect x="0" y="0" width="170" height="53" />
-</clipPath>
-<clipPath clipPathUnits="userSpaceOnUse" id="clipPath7_0_">
-<rect x="0" y="0" width="89" height="52" />
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath8_0_">
+<rect x="0" y="0" width="497" height="147" />
 </clipPath>
 <clipPath clipPathUnits="userSpaceOnUse" id="clipPath3_0_">
+<rect x="0" y="0" width="170" height="53" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath9_0_">
+<rect x="0" y="0" width="89" height="52" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath5_0_">
 <rect x="0" y="0" width="134" height="74" />
 </clipPath>
 <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4_0_">
+<rect x="0" y="0" width="170" height="110" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath2_0_">
+<rect x="0" y="0" width="170" height="45" />
+</clipPath>
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath6_0_">
 <rect x="0" y="0" width="97" height="82" />
 </clipPath>
-<clipPath clipPathUnits="userSpaceOnUse" id="clipPath5_0_">
+<clipPath clipPathUnits="userSpaceOnUse" id="clipPath7_0_">
 <rect x="0" y="0" width="138" height="53" />
 </clipPath>
 <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1_0_">
@@ -45,78 +51,66 @@
 </clipPath>
 </defs>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M907 314 L907 183" />
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M792 314 L907 314" />
-<path stroke-dasharray="none" d="M792.0 308.0 L804.0 314.0 L792.0 320.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1299 330 L1299 199" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1184 330 L1299 330" />
+<path stroke-dasharray="none" d="M1184.0 324.0 L1196.0 330.0 L1184.0 336.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="803" y="296" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="1195" y="312" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Propuesta por
 </text>
 </g>
 <g >
-<text x="908" y="231" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="1300" y="247" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Propone
 </text>
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M962 388 L962 183" />
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M792 388 L962 388" />
-<path stroke-dasharray="none" d="M792.0 382.0 L804.0 388.0 L792.0 394.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1354 404 L1354 199" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1184 404 L1354 404" />
+<path stroke-dasharray="none" d="M1184.0 398.0 L1196.0 404.0 L1184.0 410.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="803" y="370" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="1195" y="386" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Organizada por
 </text>
 </g>
 <g >
-<text x="963" y="239" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="1355" y="255" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Organiza
 </text>
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M82 286 L82 365 L248 365" />
-<path stroke-dasharray="none" d="M88.0 286.0 L82.0 298.0 L76.0 286.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M248.0 371.0 L236.0 365.0 L248.0 359.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M464 302 L464 361 L640 361" />
+<path stroke-dasharray="none" d="M470.0 302.0 L464.0 314.0 L458.0 302.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M640.0 367.0 L628.0 361.0 L640.0 355.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="83" y="342" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="465" y="349" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Es requerido
 </text>
 </g>
 <g >
-<text x="185" y="380" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="577" y="376" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Requiere
 </text>
 </g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath6_0_)" transform="translate(242,33)" >
-<rect x="0" y="0" width="531" height="146" rx="20" ry="20" />
-<text id="10520C48-307D4FCF4FF6" x="247" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
-Usuario
-</text>
-<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-*
-</text>
-<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
-P
-</text>
-<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-UID_usuario
-</text>
-<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-*
-</text>
-<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-Nombre
-</text>
-<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-*
-</text>
-<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
-Apellido(s)
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M203 311 L203 416 L640 416" />
+<path stroke-dasharray="none" d="M209.0 311.0 L203.0 323.0 L197.0 311.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M640.0 422.0 L628.0 416.0 L640.0 410.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g >
+<text x="204" y="367" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ Es requerido
 </text>
 </g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath3_0_)" transform="translate(9,212)" >
+<g >
+<text x="577" y="431" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ Requiere
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath5_0_)" transform="translate(401,228)" >
 <rect x="0" y="0" width="133" height="73" rx="20" ry="20" />
 <text id="3F206C89-B34547E31193" x="49" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
 CURSO
@@ -143,7 +137,7 @@ o
 Curso
 </text>
 </g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath4_0_)" transform="translate(882,101)" >
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath6_0_)" transform="translate(1274,117)" >
 <rect x="0" y="0" width="96" height="81" rx="20" ry="20" />
 <text id="D09A45E6-447C7E915AB3" x="30" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
 Entidad
@@ -170,7 +164,28 @@ o
 Descripcion
 </text>
 </g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath1_0_)" transform="translate(248,298)" >
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath4_0_)" transform="translate(117,201)" >
+<rect x="0" y="0" width="169" height="109" rx="20" ry="20" />
+<text id="49FECA42-D4BDF8E53651" x="65" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ÁMBITO
+</text>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+UID_Ambito
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Nombre
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath1_0_)" transform="translate(640,314)" >
 <rect x="0" y="0" width="543" height="123" rx="20" ry="20" />
 <text id="F380A89B-C974FEE6AE33" x="248" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
 Actividad
@@ -221,7 +236,34 @@ o
 Descripcion
 </text>
 </g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath2_0_)" transform="translate(567,117)" >
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath8_0_)" transform="translate(634,49)" >
+<rect x="0" y="0" width="496" height="146" rx="20" ry="20" />
+<text id="10520C48-307D4FCF4FF6" x="229" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+Usuario
+</text>
+<text x="16" y="32" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="2" y="32" fill="rgb(0,0,255)" fill-opacity="1.0" font-size="10" stroke="none">
+P
+</text>
+<text x="26" y="32" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+UID_usuario
+</text>
+<text x="16" y="46" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="46" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Nombre
+</text>
+<text x="16" y="60" fill="rgb(255,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+*
+</text>
+<text x="26" y="60" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+Apellido(s)
+</text>
+</g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath3_0_)" transform="translate(943,131)" >
 <rect x="0" y="0" width="169" height="52" rx="20" ry="20" />
 <text id="11EC30ED-441313D1DEF8" x="66" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
 Afiliado
@@ -242,7 +284,7 @@ o
 NumTelefono
 </text>
 </g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath7_0_)" transform="translate(259,118)" >
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath9_0_)" transform="translate(664,133)" >
 <rect x="0" y="0" width="88" height="51" rx="20" ry="20" />
 <text id="37857516-8329C8F4A8CF" x="20" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
 Voluntario
@@ -257,7 +299,7 @@ U
 Email
 </text>
 </g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath5_0_)" transform="translate(391,117)" >
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath7_0_)" transform="translate(792,133)" >
 <rect x="0" y="0" width="137" height="52" rx="20" ry="20" />
 <text id="E6666CDD-A94134D21CAC" x="37" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
 Responsable
@@ -278,81 +320,133 @@ o
 Descripcion
 </text>
 </g>
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath2_0_)" transform="translate(942,74)" >
+<rect x="0" y="0" width="169" height="44" rx="20" ry="20" />
+<text id="C5A048B4-9D5AC9BAE8A0" x="43" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
+ADMINISTRADOR
+</text>
+</g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M338 180 L337 239" />
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M337 298 L337 239" />
-<path stroke-dasharray="none" d="M343.0 180.0 L337.0 192.0 L331.0 180.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M917 196 L917 255" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M918 314 L917 255" />
+<path stroke-dasharray="none" d="M924.0 196.0 L918.0 208.0 L912.0 196.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="339" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="918" y="246" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Propone
 </text>
 </g>
 <g >
-<text x="338" y="280" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="919" y="297" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Es propuesta
 </text>
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M78 142 L78 212" />
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M259 142 L78 142" />
-<path stroke-dasharray="none" d="M259.0 148.0 L247.0 142.0 L259.0 136.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M72.0 212.0 L78.0 200.0 L84.0 212.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M202 201 L202 67 L634 67" />
+<path stroke-dasharray="none" d="M196.0 201.0 L202.0 189.0 L208.0 201.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M634.0 73.0 L622.0 67.0 L634.0 61.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="204" y="124" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="203" y="177" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ Es conocido
+</text>
+</g>
+<g >
+<text x="513" y="82" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ Tiene conocimientos
+</text>
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1027 15 L1027 74" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M133 201 L133 15 L1027 15" />
+<path stroke-dasharray="none" d="M127.0 201.0 L133.0 189.0 L139.0 201.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1021.0 74.0 L1027.0 62.0 L1033.0 74.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g >
+<text x="134" y="161" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ Es creado
+</text>
+</g>
+<g >
+<text x="1028" y="43" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ Crea
+</text>
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M468 138 L468 228" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M664 138 L468 138" />
+<path stroke-dasharray="none" d="M664.0 144.0 L652.0 138.0 L664.0 132.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M462.0 228.0 L468.0 216.0 L474.0 228.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g >
+<text x="609" y="131" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Estudia
 </text>
 </g>
 <g >
-<text x="79" y="188" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="469" y="204" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Es estudiado
 </text>
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M565 180 L564 239" />
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M564 298 L564 239" />
-<path stroke-dasharray="none" d="M570.0 180.0 L564.0 192.0 L558.0 180.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M559.0 298.0 L565.0 286.0 L571.0 298.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1031 196 L1031 255" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1032 314 L1031 255" />
+<path stroke-dasharray="none" d="M1038.0 196.0 L1032.0 208.0 L1026.0 196.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1025.0 314.0 L1031.0 302.0 L1037.0 314.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="566" y="215" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="1032" y="231" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Participa en
 </text>
 </g>
 <g >
-<text x="565" y="286" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="1033" y="302" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Recibe participación de
 </text>
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M460 170 L460 234" />
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M460 298 L460 234" />
-<path stroke-dasharray="none" d="M454.0 298.0 L460.0 286.0 L466.0 298.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M807 186 L807 250" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M808 314 L807 250" />
+<path stroke-dasharray="none" d="M801.0 314.0 L807.0 302.0 L813.0 314.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="461" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="809" y="290" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Validada por
 </text>
 </g>
 <g >
-<text x="461" y="218" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="808" y="234" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Valida
 </text>
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M737 143 L882 143" />
-<path stroke-dasharray="none" d="M737.0 137.0 L749.0 143.0 L737.0 149.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M882.0 149.0 L870.0 143.0 L882.0 137.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M1113 157 L1274 157" />
+<path stroke-dasharray="none" d="M1113.0 151.0 L1125.0 157.0 L1113.0 163.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1274.0 163.0 L1262.0 157.0 L1274.0 151.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="748" y="125" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="1124" y="139" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Pertence a
 </text>
 </g>
 <g >
-<text x="786" y="158" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="1178" y="172" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Conformada por
+</text>
+</g>
+<g stroke-linecap="butt" >
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M1112 106 L1236 106 L1235 65 L1131 65" />
+<path stroke-dasharray="none" d="M1112.0 100.0 L1124.0 106.0 L1112.0 112.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M1131.0 59.0 L1143.0 65.0 L1131.0 71.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+</g>
+<g >
+<text x="1123" y="98" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ Administra
+</text>
+</g>
+<g >
+<text x="1142" y="80" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+ Es administrado
 </text>
 </g>
 
