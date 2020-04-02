@@ -14,12 +14,10 @@ public class Entidad implements Serializable {
 	@Column(nullable = false)
 	private String Nombre;
 	private String Descripcion;
-	
+	@Column(Unique= true)
+	private String Email;
 	@ManyToMany//pertenece
 	private List <Afiliado> afiliados;
-	
-	@OneToMany//propone
-	private List <Actividad> actividadesP;
 	
 	@OneToMany//organiza
 	private List <Actividad> actividadesO;
@@ -34,5 +32,8 @@ public class Entidad implements Serializable {
 	
 	public void setDescripcion (String Descripcion) {this.Descripcion = Descripcion;}
 	public String getDescripcion () {return this.Descripcion;}
+	
+	public void setEmail(String email){this.Email=email;}
+	public String getEmail(){return this.Email;}
 	
 }
