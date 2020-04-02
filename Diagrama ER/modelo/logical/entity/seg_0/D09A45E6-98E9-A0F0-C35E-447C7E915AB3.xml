@@ -1,5 +1,5 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="D09A45E6-98E9-A0F0-C35E-447C7E915AB3" name="Entidad">
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="D09A45E6-98E9-A0F0-C35E-447C7E915AB3" name="ENTIDAD">
 <createdBy>david</createdBy>
 <createdTime>2020-03-26 10:27:05 UTC</createdTime>
 <ownerDesignName>modelo</ownerDesignName>
@@ -46,6 +46,17 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
+<Attribute name="Email" id="ADBC338A-E183-C2F0-1F7B-9D1C6CEBD812">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 18:40:36 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 </attributes>
 <identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
 <identifier id="84AEB02A-F5B5-EC5C-A60C-5EFDBFE1126E" name="Entidad PK">
@@ -58,6 +69,18 @@
 <pk>true</pk>
 <usedAttributes>
 <attributeRef>B6C9C1DA-2538-89A4-EA7C-B7F25C117137</attributeRef>
+</usedAttributes>
+</identifier>
+<identifier id="7E70F145-41FF-6CAE-D6E1-167A898EE7E7" name="Key_2">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 18:40:43 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<newElementsIDs>ADBC338A-E183-C2F0-1F7B-9D1C6CEBD812</newElementsIDs>
+<usedAttributes>
+<attributeRef>ADBC338A-E183-C2F0-1F7B-9D1C6CEBD812</attributeRef>
 </usedAttributes>
 </identifier>
 </identifiers>

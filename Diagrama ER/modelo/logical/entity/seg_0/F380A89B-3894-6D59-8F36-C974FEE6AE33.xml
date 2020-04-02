@@ -1,5 +1,5 @@
 <?xml version = '1.0' encoding = 'UTF-8'?>
-<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="F380A89B-3894-6D59-8F36-C974FEE6AE33" name="Actividad">
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="F380A89B-3894-6D59-8F36-C974FEE6AE33" name="ACTIVIDAD">
 <createdBy>david</createdBy>
 <createdTime>2020-03-26 10:29:00 UTC</createdTime>
 <ownerDesignName>modelo</ownerDesignName>
@@ -124,18 +124,6 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
-<Attribute name="NIF" id="E2D775FE-ABC8-213B-B784-A5600C7E56EC">
-<createdBy>Fran Navarro</createdBy>
-<createdTime>2020-03-26 12:24:57 UTC</createdTime>
-<generatorID>3537C9C6-FDEF-54FB-0B99-F3CF8FD9D10E</generatorID>
-<ownerDesignName>modelo</ownerDesignName>
-<engineerTo>
-<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
-</engineerTo>
-<referedAttribute>B6C9C1DA-2538-89A4-EA7C-B7F25C117137</referedAttribute>
-<use>0</use>
-<ownDataTypeParameters>,,</ownDataTypeParameters>
-</Attribute>
 <Attribute name="NIF1" id="812F42D8-8900-9068-F5FA-D2C781A4E073">
 <createdBy>Fran Navarro</createdBy>
 <createdTime>2020-03-26 12:24:57 UTC</createdTime>
@@ -145,6 +133,52 @@
 <item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
 </engineerTo>
 <referedAttribute>B6C9C1DA-2538-89A4-EA7C-B7F25C117137</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="UID_usuario2" id="A6A5608C-4729-2A8C-58B2-2B646AED7CC8">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 18:36:45 UTC</createdTime>
+<generatorID>2F7DE434-9BF6-CBF8-19C6-728AB0AAADA1</generatorID>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<referedAttribute>7CD42FC0-7D12-0A86-270C-05209F6A8BA9</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="UID_usuario4" id="69C23AE4-4D2E-AF6D-6029-96F7F39E3FD5">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 18:38:55 UTC</createdTime>
+<generatorID>7AC82A5B-66D8-AED5-79F5-51D39059459A</generatorID>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<referedAttribute>7CD42FC0-7D12-0A86-270C-05209F6A8BA9</referedAttribute>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NumParticipantes" id="61A3C006-2853-E743-A799-50943A55420D">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 18:41:06 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Lugar" id="5AD8DF52-E212-BD96-3C42-157156E19B6A">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 18:42:10 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
