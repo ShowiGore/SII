@@ -29,7 +29,7 @@ public class Curso implements Serializable {
 	private List<Actividad> actividades;
         
         @ManyToMany//estudia
-        private List<Voluntario> voluntarios;
+        private List<Usuario> usuarios;
 
 	public Curso() {
 		super();

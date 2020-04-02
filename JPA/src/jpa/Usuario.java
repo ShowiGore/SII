@@ -33,6 +33,9 @@ public class Usuario implements Serializable {
         
         @ManyToMany//conoce
         private List <Ambito> ambitos;
+        
+        @ManyToMany//estudia
+	private List<Curso> cursos;
 	
 	public Usuario() {
 		super();

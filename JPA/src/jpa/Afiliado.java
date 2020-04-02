@@ -21,9 +21,14 @@ public class Afiliado extends Usuario implements Serializable {
 	private String DNI;
         @Column(unique=true)
 	private String num_tlf;
+        @Column(unique=true)
+	private String email;
 	
 	@ManyToMany//pertenece
 	private List<Entidad> entidades;
+        
+        @OneToMany//valida
+        private List<Actividad> actividades;
 	
 	public Afiliado() {
 		super();
@@ -43,6 +48,14 @@ public class Afiliado extends Usuario implements Serializable {
 
 	public void setNum_tlf(String num_tlf) {
 		this.num_tlf = num_tlf;
+	}
+        
+        public String getEmail() {
+		return num_tlf;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
 	}
 	
 }
