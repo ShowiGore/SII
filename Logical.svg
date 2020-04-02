@@ -46,11 +46,11 @@
 </defs>
 <g stroke-linecap="butt" >
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M907 314 L907 183" />
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M791 314 L907 314" />
-<path stroke-dasharray="none" d="M791.0 308.0 L803.0 314.0 L791.0 320.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M792 314 L907 314" />
+<path stroke-dasharray="none" d="M792.0 308.0 L804.0 314.0 L792.0 320.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="802" y="296" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="803" y="296" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Propuesta por
 </text>
 </g>
@@ -61,11 +61,11 @@
 </g>
 <g stroke-linecap="butt" >
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M962 388 L962 183" />
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M791 388 L962 388" />
-<path stroke-dasharray="none" d="M791.0 382.0 L803.0 388.0 L791.0 394.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M792 388 L962 388" />
+<path stroke-dasharray="none" d="M792.0 382.0 L804.0 388.0 L792.0 394.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="802" y="370" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="803" y="370" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Organizada por
 </text>
 </g>
@@ -75,9 +75,9 @@
 </text>
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M82 286 L82 365 L247 365" />
-<path stroke-dasharray="none" d="M88.0 286.0 L82.0 298.0 L76.0 286.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M247.0 371.0 L235.0 365.0 L247.0 359.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M82 286 L82 365 L248 365" />
+<path stroke-dasharray="none" d="M88.0 286.0 L82.0 298.0 L76.0 286.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M248.0 371.0 L236.0 365.0 L248.0 359.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
 <text x="83" y="342" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
@@ -85,7 +85,7 @@
 </text>
 </g>
 <g >
-<text x="184" y="380" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="185" y="380" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Requiere
 </text>
 </g>
@@ -170,7 +170,7 @@ o
 Descripcion
 </text>
 </g>
-<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath1_0_)" transform="translate(247,298)" >
+<g  fill="rgb(164,225,255)" stroke="rgb(0,0,255)" fill-opacity="1.0" stroke-opacity="1.0" clip-path="url(#clipPath1_0_)" transform="translate(248,298)" >
 <rect x="0" y="0" width="543" height="123" rx="20" ry="20" />
 <text id="F380A89B-C974FEE6AE33" x="248" y="14" fill="rgb(0,0,255)" font-weight="bold"  fill-opacity="1.0" font-size="10" stroke="none">
 Actividad
@@ -279,25 +279,25 @@ Descripcion
 </text>
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M645 180 L644 239" />
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M644 298 L644 239" />
-<path stroke-dasharray="none" d="M650.0 180.0 L644.0 192.0 L638.0 180.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M338 180 L337 239" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M337 298 L337 239" />
+<path stroke-dasharray="none" d="M343.0 180.0 L337.0 192.0 L331.0 180.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="646" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="339" y="228" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Propone
 </text>
 </g>
 <g >
-<text x="645" y="274" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="338" y="280" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Es propuesta
 </text>
 </g>
 <g stroke-linecap="butt" >
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M78 142 L78 212" />
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M259 142 L78 142" />
-<path stroke-dasharray="none" d="M259.0 148.0 L247.0 142.0 L259.0 136.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M72.0 212.0 L78.0 200.0 L84.0 212.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M259.0 148.0 L247.0 142.0 L259.0 136.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M72.0 212.0 L78.0 200.0 L84.0 212.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
 <text x="204" y="124" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
@@ -310,25 +310,25 @@ Descripcion
 </text>
 </g>
 <g stroke-linecap="butt" >
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M303 170 L303 234" />
-<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M303 298 L303 234" />
-<path stroke-dasharray="none" d="M309.0 170.0 L303.0 182.0 L297.0 170.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M297.0 298.0 L303.0 286.0 L309.0 298.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M565 180 L564 239" />
+<path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M564 298 L564 239" />
+<path stroke-dasharray="none" d="M570.0 180.0 L564.0 192.0 L558.0 180.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M559.0 298.0 L565.0 286.0 L571.0 298.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
-<text x="304" y="224" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="566" y="215" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Participa en
 </text>
 </g>
 <g >
-<text x="304" y="250" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
+<text x="565" y="286" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
  Recibe participación de
 </text>
 </g>
 <g stroke-linecap="butt" >
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-dasharray="8,8" stroke-width="1" d="M460 170 L460 234" />
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M460 298 L460 234" />
-<path stroke-dasharray="none" d="M454.0 298.0 L460.0 286.0 L466.0 298.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M454.0 298.0 L460.0 286.0 L466.0 298.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
 <text x="461" y="242" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
@@ -342,8 +342,8 @@ Descripcion
 </g>
 <g stroke-linecap="butt" >
 <path stroke="rgb(0,0,0)" fill="none" stroke-opacity="1.0"  stroke-width="1" d="M737 143 L882 143" />
-<path stroke-dasharray="none" d="M737.0 137.0 L749.0 143.0 L737.0 149.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
-<path stroke-dasharray="none" d="M882.0 149.0 L870.0 143.0 L882.0 137.0" fill="white" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M737.0 137.0 L749.0 143.0 L737.0 149.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
+<path stroke-dasharray="none" d="M882.0 149.0 L870.0 143.0 L882.0 137.0" fill="none" stroke-width="1" stroke-opacity="1.0" stroke="rgb(0,0,0)" />
 </g>
 <g >
 <text x="748" y="125" fill="rgb(0,0,0)" fill-opacity="1.0" font-size="10" stroke="none">
