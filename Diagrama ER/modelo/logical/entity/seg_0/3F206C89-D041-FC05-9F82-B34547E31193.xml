@@ -42,7 +42,8 @@
 <Attribute name="Curso" id="E08537A0-C5B9-55D9-CDFB-A9E2195868A6">
 <createdBy>Fran Navarro</createdBy>
 <createdTime>2020-03-26 12:27:19 UTC</createdTime>
-<comment>Nada -&gt; carrera terminada&lt;br/&gt;Numero -&gt; curso actual</comment>
+<comment><![CDATA[Nada -> carrera terminada
+Numero -> curso actual]]></comment>
 <ownerDesignName>modelo</ownerDesignName>
 <engineerTo>
 <item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>

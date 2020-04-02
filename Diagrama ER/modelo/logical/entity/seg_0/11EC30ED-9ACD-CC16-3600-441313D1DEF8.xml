@@ -16,6 +16,16 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="DNI" id="398CEB80-356A-4290-BC7C-20E348371191">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 14:43:17 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 <Attribute name="NumTelefono" id="31EB548D-35D6-6AED-9FBA-08A668B149C4">
 <createdBy>david</createdBy>
 <createdTime>2020-03-26 13:13:44 UTC</createdTime>
@@ -28,4 +38,18 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="9F711509-1FD7-AD3C-1BB8-33584ACFE17E" name="Key_1">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 14:44:06 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<newElementsIDs>398CEB80-356A-4290-BC7C-20E348371191</newElementsIDs>
+<usedAttributes>
+<attributeRef>398CEB80-356A-4290-BC7C-20E348371191</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
 </Entity>

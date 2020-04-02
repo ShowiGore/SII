@@ -16,9 +16,9 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
-<Attribute name="ID_Profesor" id="94980088-E304-E9BA-4CE8-3AF9139D7E59">
+<Attribute name="DNI" id="A038409D-5DD9-2CC7-4905-4270E40760DF">
 <createdBy>david</createdBy>
-<createdTime>2020-03-26 13:11:55 UTC</createdTime>
+<createdTime>2020-04-02 14:41:50 UTC</createdTime>
 <ownerDesignName>modelo</ownerDesignName>
 <engineerTo>
 <item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
@@ -26,5 +26,30 @@
 <use>0</use>
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
+<Attribute name="Descripcion" id="295FB920-E427-267E-D870-B9CD1C594DF6">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 14:42:37 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
 </attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="F77F3BD5-9611-DE02-B323-57D5D7D39F9C" name="Key_1">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 14:43:37 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<newElementsIDs>A038409D-5DD9-2CC7-4905-4270E40760DF</newElementsIDs>
+<usedAttributes>
+<attributeRef>A038409D-5DD9-2CC7-4905-4270E40760DF</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
 </Entity>

@@ -16,7 +16,7 @@
 <minVolumes>0</minVolumes>
 <normalForm>Third</normalForm>
 <attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
-<Attribute name="Correo_UMA" id="F6B7845F-7A15-11CC-EBBE-8751CBEDD5CA">
+<Attribute name="Email" id="F6B7845F-7A15-11CC-EBBE-8751CBEDD5CA">
 <createdBy>david</createdBy>
 <createdTime>2020-03-26 10:32:10 UTC</createdTime>
 <ownerDesignName>modelo</ownerDesignName>
@@ -27,4 +27,18 @@
 <ownDataTypeParameters>,,</ownDataTypeParameters>
 </Attribute>
 </attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="B7B5A486-3C61-0433-8EEC-55850873D3C7" name="Key_1">
+<createdBy>david</createdBy>
+<createdTime>2020-04-02 14:51:58 UTC</createdTime>
+<ownerDesignName>modelo</ownerDesignName>
+<engineerTo>
+<item key="5DAF1666-3EAC-F592-A934-5C4115082D64" value="true"/>
+</engineerTo>
+<newElementsIDs>F6B7845F-7A15-11CC-EBBE-8751CBEDD5CA</newElementsIDs>
+<usedAttributes>
+<attributeRef>F6B7845F-7A15-11CC-EBBE-8751CBEDD5CA</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
 </Entity>

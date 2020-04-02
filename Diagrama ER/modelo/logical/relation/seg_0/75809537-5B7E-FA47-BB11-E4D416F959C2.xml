@@ -8,6 +8,7 @@
 </engineerTo>
 <identifying>false</identifying>
 <nameOnSource>Participa en</nameOnSource>
+<nameOnTarget>Recibe participación de</nameOnTarget>
 <optionalSource>true</optionalSource>
 <optionalTarget>false</optionalTarget>
 <sourceCardinality>*</sourceCardinality>
