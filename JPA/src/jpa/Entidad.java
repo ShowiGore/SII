@@ -11,20 +11,18 @@ public class Entidad implements Serializable {
 	
 	@Id
 	private String NIF;
-	
 	@Column(nullable = false)
 	private String Nombre;
-	
 	private String Descripcion;
 	
-	@ManyToMany
+	@ManyToMany//pertenece
 	private List <Afiliado> afiliados;
 	
-	@OneToMany
-	private List <Actividad> propuesta;
+	@OneToMany//propone
+	private List <Actividad> actividadesP;
 	
-	@OneToMany
-	private List <Actividad> organizada;
+	@OneToMany//organiza
+	private List <Actividad> actividadesO;
 	
 	public Entidad() { super(); }
 	
