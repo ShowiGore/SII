@@ -17,9 +17,6 @@ public class Voluntario extends Usuario implements Serializable {
 	
         @Column(unique=true)
 	private String email;
-        
-	@ManyToMany//estudia
-	private List<Curso> cursos;
 	
 	public Voluntario() {
 		super();

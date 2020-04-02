@@ -39,11 +39,13 @@ public class Actividad implements Serializable {
     @Temporal(TemporalType.DATE)
     private Date fechaFin;
     private String descripcion;
+    private String NumParticipantes;
+    private String Lugar;
     
     @ManyToMany//requiere
     private List<Curso> cursos;
     
-    @ManyToMany//pertenece
+    @ManyToMany//participa
     private List<Usuario> usuarios;
     
     @ManyToMany//requiere
@@ -55,12 +57,12 @@ public class Actividad implements Serializable {
     @ManyToOne//valida
     private Responsable responsable;
     
-    @ManyToOne//propone
-    private Entidad entidadesP;
-    
     @ManyToOne//organiza
     private Entidad entidadesO;
-
+    
+    @ManyToOne//Valida
+    private Afiliado afiliado;
+    
     public Long getId() {
         return id;
     }
@@ -116,7 +118,14 @@ public class Actividad implements Serializable {
     public void setDescripcion(String descripcion) {
         this.descripcion = descripcion;
     }
-        
+   
+    public String getNumParticipantes(){
+        return this.NumParticipantes;
+    }
+    
+    public void setNumParticipantes(String num){
+        this.NumParticipantes=num;
+    }
     @Override
     public int hashCode() {
         int hash = 0;
