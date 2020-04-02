@@ -29,7 +29,7 @@ public class JPA {
         
         Para las nuevas entidades deben añadirse al archivo de persistence.xml con <class>
         */
-        
+        /*
         Autor al = new Autor();
         al.setNombre("Alejandro");
         al.setApellidos("Mozo");
@@ -50,6 +50,7 @@ public class JPA {
         
         em.close();
         emf.close();
+        */
     }
     
 }
