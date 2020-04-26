@@ -35,5 +35,24 @@ public class Entidad implements Serializable {
 	
 	public void setEmail(String email){this.Email=email;}
 	public String getEmail(){return this.Email;}
+        
+        public int hashCode() {
+            int hash = 0;
+            hash += (NIF != null ? NIF.hashCode() : 0);
+            return hash;
+        }
+        
+        public boolean equals(Object object) {
+             
+            if (!(object instanceof Entidad)) {
+                return false;
+            }
+            Entidad other = (Entidad) object;
+
+            if ((this.NIF == null && other.NIF != null) || (this.NIF != null && !this.NIF.equals(other.NIF))) {
+                return false;
+            }
+            return true;
+        }
 	
 }

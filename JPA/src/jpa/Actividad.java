@@ -153,7 +153,7 @@ public class Actividad implements Serializable {
 
     @Override
     public String toString() {
-        return "jpa.Artist[ id=" + id + " ]";
+        return "jpa.Actividad[ id=" + id + " ]";
     }
     
 }

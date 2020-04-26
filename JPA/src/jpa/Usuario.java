@@ -58,5 +58,24 @@ public class Usuario implements Serializable {
 	public void setApellidos(String apellidos) {
 		this.Apellidos=apellidos;
 	}
+        
+        public int hashCode() {
+            int hash = 0;
+            hash += (UID_Usuario != null ? UID_Usuario.hashCode() : 0);
+            return hash;
+        }
+        
+        public boolean equals(Object object) {
+             
+            if (!(object instanceof Usuario)) {
+                return false;
+            }
+            Usuario other = (Usuario) object;
+
+            if ((this.UID_Usuario == null && other.UID_Usuario != null) || (this.UID_Usuario != null && !this.UID_Usuario.equals(other.UID_Usuario))) {
+                return false;
+            }
+            return true;
+        }
 	
 }

@@ -50,7 +50,24 @@ public class Ambito implements Serializable {
 		Nombre = nombre;
 	}
 	
-	
+	public int hashCode() {
+            int hash = 0;
+            hash += (id != null ? id.hashCode() : 0);
+            return hash;
+        }
+        
+        public boolean equals(Object object) {
+             
+            if (!(object instanceof Ambito)) {
+                return false;
+            }
+            Ambito other = (Ambito) object;
+
+            if ((this.id == null && other.id != null) || (this.id != null && !this.id.equals(other.id))) {
+                return false;
+            }
+            return true;
+        }
 	
 	
 }

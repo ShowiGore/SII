@@ -49,4 +49,23 @@ public class Responsable extends Usuario implements Serializable {
         this.descripcion = descripcion;
     }
     
+    public int hashCode() {
+            int hash = 0;
+            hash += (DNI != null ? DNI.hashCode() : 0);
+            return hash;
+    }
+        
+    public boolean equals(Object object) {
+
+        if (!(object instanceof Responsable)) {
+            return false;
+        }
+        Responsable other = (Responsable) object;
+
+        if ((this.DNI == null && other.DNI != null) || (this.DNI != null && !this.DNI.equals(other.DNI))) {
+            return false;
+        }
+        return true;
+    }
+    
 }

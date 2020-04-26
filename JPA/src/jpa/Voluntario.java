@@ -27,4 +27,24 @@ public class Voluntario extends Usuario implements Serializable {
 	public void setEmail(String email) {
 		this.email=email;
 	}
+        
+        public int hashCode() {
+            int hash = 0;
+            hash += (email != null ? email.hashCode() : 0);
+            return hash;
+        }
+        
+        public boolean equals(Object object) {
+             
+            if (!(object instanceof Voluntario)) {
+                return false;
+            }
+            Voluntario other = (Voluntario) object;
+
+            if ((this.email == null && other.email != null) || (this.email != null && !this.email.equals(other.email))) {
+                return false;
+            }
+            return true;
+        }
+        
 }
